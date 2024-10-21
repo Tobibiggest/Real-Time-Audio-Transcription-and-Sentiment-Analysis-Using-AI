@@ -89,6 +89,3 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 Special thanks to the **Hugging Face** and **OpenAI** teams for providing the tools to build this project.
 
----
-
-Feel free to customize the image and video paths after uploading the corresponding files to your repository.
